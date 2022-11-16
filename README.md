@@ -1,6 +1,6 @@
 # cryptography_demo
 
-This is a jupyter notebook about different classical cryptography algorithms. Further it discusses how to the cryptosystem looks like, how to choose a key, and which attacks are available to crack the cryptosystem. The correctness of some cryptosystems are even proofed.
+This is a jupyter notebook about different classical cryptography algorithms. Further it discusses how the cryptosystem looks like, how to choose a key, and which attacks are available to crack the cryptosystem. The correctness of some cryptosystems are even proofed.
 
 These cryptosystems are discussed in this notebook:
 1. Caesar 
